@@ -1,0 +1,15 @@
+Jogo Nim
+Desenvolvido por William Persch e Cristiano Ledur
+<====================>
+Jogador 1: Jogador 1
+Jogador 2: Jogador 2
+Vencedor: Jogador 2
+<====================>
+Jogador 1: Cristiano
+Jogador 2: Computador
+Vencedor: Cristiano
+<====================>
+Jogador 1: Cristiano
+Jogador 2: Carlos
+Vencedor: Carlos
+<====================>
